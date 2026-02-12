@@ -1,10 +1,14 @@
-# Página Web Responsiva
+# 🌐 Página Web Responsiva
 
-Projeto simples desenvolvido com HTML e CSS.
+Página simples desenvolvida com HTML e CSS para praticar estruturação e estilização de interfaces web.
 
-Funcionalidades:
-• Estrutura básica de página
-• Estilização com CSS
-• Botão interativo
+## Funcionalidades
+• Estrutura HTML semântica  
+• Estilização com CSS  
+• Layout centralizado  
 
-Tecnologias: HTML5, CSS3
+## Tecnologias
+HTML • CSS
+
+## Como executar
+Abra o arquivo index.html no navegador.
