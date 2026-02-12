@@ -1,17 +1,5 @@
-body {
-    font-family: Arial;
-    text-align: center;
-    background-color: #f4f4f4;
-}
-
-header {
-    background-color: #333;
-    color: white;
-    padding: 20px;
-}
-
-button {
-    padding: 10px 20px;
-    margin-top: 20px;
-    cursor: pointer;
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
 }
